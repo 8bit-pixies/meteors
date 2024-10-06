@@ -7,3 +7,5 @@ Now with sound. The goal is to have a "minimal" working version for my reference
 - Add sound effects
 - "Unspawns" entities which are out of bounds
 - Update to use `v2/text` for loading custom fonts
+
+![screenshot](screenshot.png)
